@@ -2,7 +2,7 @@
 
 This project uses data from ebird to create maps of bird distributions and a predictive algorithm that identifies a bird's species based on color, size, and location. 
 
-For an overview, refer to the Capstone 3 Documenation file
+For an overview, refer to the Capstone 2 Documentation file
 
 To review the actual code, refer to they jupyter notebooks:
 Ebird_data_importing_and_basic_EDA - imports the data from ebird and does some basic processing
